@@ -5,6 +5,9 @@
 
 A aplicação consiste em uma API Rest em JAVA Spring Boot com as operações de CRUD de clientes.
 
+## Diagrama 
+![Diagrama](https://github.com/mamsoares/dsclient-bootcamp-devsuperior/blob/master/assets/images/diagrama-classe-client.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
